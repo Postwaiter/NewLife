@@ -7,7 +7,7 @@
 <body>
 
 	<h1>New Savchenko</h1>
-
+ 
 	<h2>Memcached</h2>
 	<?php
 	$memcache = new Memcache;
