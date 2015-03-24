@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Art My Fire</title>
+	<title>Art Me Please</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 </head>
