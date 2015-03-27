@@ -14,7 +14,7 @@ class Route
 		$controller_name = 'Main';
 		$action_name = 'index';
 		
-		$routes = explode('/', $_SERVER['REQUEST_URL']);
+		$routes = explode('/', $_SERVER['REQUEST_URI']);
 
 		// получаем имя контроллера
 		if ( !empty($routes[1]) )
@@ -31,16 +31,16 @@ class Route
 
 		// добавляем префиксы
 		$model_name = 'Model_'.$controller_name;
-                $model_name = 'model_portfolio';
 		
-		$controller_name = 'Controller_'.$controller_name;
-		$action_name = 'action_'.$action_name;
+                $controller_name = 'Controller_'.$controller_name;
+		
+                $action_name = 'action_'.$action_name;
 
-		/*
-		echo "Model: $model_name <br>";
-		echo "Controller: $controller_name <br>";
-		echo "Action: $action_name <br>";
-		*/
+		
+//		echo "Model: $model_name <br>";
+//		echo "Controller: $controller_name <br>";
+//		echo "Action: $action_name <br>";
+		
 
 		// подцепляем файл с классом модели (файла модели может и не быть)
 

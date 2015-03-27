@@ -16,7 +16,7 @@ Modified by VitalySwipe
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
-		<title>ОЛОЛОША TEAM</title>
+		<title>ПРОПЕЛЛЕР TEAM</title>
 		<link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css" />
 		<link href="http://fonts.googleapis.com/css?family=Kreon" rel="stylesheet" type="text/css" />
 		<link rel="stylesheet" type="text/css" href="/css/style.css" />
@@ -43,7 +43,7 @@ Modified by VitalySwipe
 		<div id="wrapper">
 			<div id="header">
 				<div id="logo">
-					<a href="/">ОЛОЛОША</span> <span class="cms">TEAM</span></a>
+					<a href="/">ПРОПЕЛЛЕР</span> <span class="cms">TEAM</span></a>
 				</div>
 				<div id="menu">
 					<ul>
@@ -107,41 +107,50 @@ Modified by VitalySwipe
 				<div id="page-bottom-sidebar">
 					<h3>Наши контакты</h3>
 					<ul class="list">
-						<li class="first">icq: 199199538</li>
-						<li>skypeid: vitalyswipe</li>
-						<li class="last">email: vitalyswipe@gmail.com</li>
+						<li class="first">icq: 239239239</li>
+						<li class="last">email: postwaiter@mail.com</li>
 					</ul>
 				</div>
 				<div id="page-bottom-content">
 					<h3>О Компании</h3>
 					<p>
-Вот дом.
-Который построил Джек.
+Imagine there's no Heaven
+It's easy if you try
+And no Hell below us
+Above us only sky
+Imagine all the people
+Living for today
 
-А это пшеница.
-Которая в тёмном чулане хранится
-В доме,
-Который построил Джек.
+Imagine there's no country
+It isn't hard to do
+Nothing to kill or die for
+And no religion too
+Imagine all the people
+Living life in peace
 
-А это весёлая птица-синица,
-Которая ловко ворует пшеницу,
-Которая в тёмном чулане хранится
-В доме,
-Который построил Джек.
+You may say I'm a dreamer
+But I'm not the only one
+Maybe someday you will join us
+And the world will be as one
 
-Вот кот,
-Который пугает и ловит синицу,
-Которая ловко ворует пшеницу,
-Которая в тёмном чулане хранится
-В доме,
-Который построил Джек.
+Imagine no posessions
+I wonder if you can
+No need for greed or hunger
+Or Brotherhood of Man
+Imagine all the people
+Sharing all the world
+
+You may say that I'm a dreamer
+But I'm not the only one
+And maybe someday you will join us
+And the world will be as one
 					</p>
 				</div>
 				<br class="clearfix" />
 			</div>
 		</div>
 		<div id="footer">
-			<a href="/">ОЛОЛОША TEAM</a> &copy; 2012</a>
+			<a href="/">ПРОПЕЛЛЕР TEAM</a> &copy; 2015</a>
 		</div>
 	</body>
 </html>
