@@ -12,7 +12,7 @@ class Model_Portfolio extends Model
                 'Description' => 'Промо-сайт темного пива Dunkel от немецкого производителя Löwenbraü выпускаемого в России пивоваренной компанией "CАН ИнБев".'
             ),
             array(
-                'Year' => '2012',
+                'Year' => '2014',
                 'Site' => 'http://ZopoMobile.ru',
                 'Description' => 'Русскоязычный каталог китайских телефонов компании Zopo на базе Android OS и аксессуаров к ним.'
             ),
