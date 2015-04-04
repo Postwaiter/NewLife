@@ -16,7 +16,7 @@ Modified by VitalySwipe
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
-		<title>ПРОПЕЛЛЕР TEAM</title>
+		<title>POSTWAITER TEAM</title>
 		<link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css" />
 		<link href="http://fonts.googleapis.com/css?family=Kreon" rel="stylesheet" type="text/css" />
 		<link rel="stylesheet" type="text/css" href="/css/style.css" />
@@ -43,12 +43,12 @@ Modified by VitalySwipe
 		<div id="wrapper">
 			<div id="header">
 				<div id="logo">
-					<a href="/">ПРОПЕЛЛЕР</span> <span class="cms">TEAM</span></a>
+					<a href="/">POSTWAITER</span> <span class="cms">TEAM</span></a>
 				</div>
 				<div id="menu">
 					<ul>
 						<li class="first active"><a href="/">Главная</a></li>
-						<li><a href="/portfolio">Портфолио</a></li>
+						<li><a href="/refs">Ссылки</a></li>
                                                 <li><a href="/abilities">Умения</a></li>
 						<li class="last"><a href="/contacts">Контакты</a></li>
 					</ul>
@@ -83,7 +83,7 @@ Modified by VitalySwipe
 						<ul class="list">
 							<li class="first "><a href="/">Главная</a></li>
 							<li><a href="/services">Услуги</a></li>
-							<li><a href="/portfolio">Портфолио</a></li>
+							<li><a href="/refs">Ссылки</a></li>
 							<li class="last"><a href="/contacts">Контакты</a></li>
 						</ul>
 					</div>
@@ -133,7 +133,7 @@ But I'm not the only one
 Maybe someday you will join us
 And the world will be as one
 
-Imagine no posessions
+Imagine no possessions
 I wonder if you can
 No need for greed or hunger
 Or Brotherhood of Man
@@ -150,7 +150,7 @@ And the world will be as one
 			</div>
 		</div>
 		<div id="footer">
-			<a href="/">ПРОПЕЛЛЕР TEAM</a> &copy; 2015</a>
+			<a href="/">POSTWAITER TEAM</a> &copy; 2015</a>
 		</div>
 	</body>
 </html>
