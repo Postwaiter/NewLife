@@ -13,8 +13,10 @@ class Model_Refs extends Model
             ),
             array(
                 
-                'Concept' => 'http://ZopoMobile.ru',
-                'Ref' => 'Русскоязычный каталог китайских телефонов компании Zopo на базе Android OS и аксессуаров к ним.'
+                'Concept' => 'Серверные технологии',
+                'Ref' => '<a href="https://ru.wikipedia.org/wiki/LAMP">LAMP</a>, <a href="https://ru.wikipedia.org/wiki/Apache">Apache</a>,'
+                . ' <a href="https://ru.wikipedia.org/wiki/Nginx">Nginx</a>, <a href="https://ru.wikipedia.org/wiki/memcached">Memcache</a>, '
+                . '<a href="http://habrahabr.ru/post/108274/">Memcache+PHP</a>'
             ),
                         array(
                 'Concept' => 'http://DunkelBeer.ru',
