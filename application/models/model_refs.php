@@ -30,7 +30,12 @@ class Model_Refs extends Model
                 'Concept' => 'Паттерны проектирования',
                 'Ref' => '<a href="https://ru.wikipedia.org/wiki/Model-View-Controller">MVC</a>, <a href="http://habrahabr.ru/post/31270/">MVC(Habrhabr)</a>,'
                             . ' <a href="https://ru.wikipedia.org/wiki/%D8%E0%E1%EB%EE%ED_%EF%F0%EE%E5%EA%F2%E8%F0%EE%E2%E0%ED%E8%FF">Паттерны</a>'
-            ),            
+            ),
+                         array(
+                'Concept' => 'Другие технологии',
+                'Ref' => '<a href="https://ru.wikipedia.org/wiki/CSS">CSS</a>, <a href="https://ru.wikipedia.org/wiki/HTML">HTML</a>,'
+                            . ' <a href="https://ru.wikipedia.org/wiki/REST">REST</a>'
+            ),           
         );
     }
 }
