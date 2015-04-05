@@ -19,23 +19,18 @@ class Model_Refs extends Model
                 . '<a href="http://habrahabr.ru/post/108274/">Memcache+PHP</a>'
             ),
                         array(
-                'Concept' => 'http://DunkelBeer.ru',
-                'Ref' => 'Промо-сайт темного пива Dunkel от немецкого производителя Löwenbraü выпускаемого в России пивоваренной компанией "CАН ИнБев".'
-            ),
-            array(
-                
-                'Concept' => 'http://ZopoMobile.ru',
-                'Ref' => 'Русскоязычный каталог китайских телефонов компании Zopo на базе Android OS и аксессуаров к ним.'
+                'Concept' => 'Контроль версии',
+                'Ref' => '<a href="http://habrahabr.ru/post/60347/">Git-команды (Habrhabr)</a>, '.'<a href="http://git-scm.com/book/ru/v2/%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B-Git-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B">Git команды</a>'
             ),
                         array(
-                'Concept' => 'http://DunkelBeer.ru',
-                'Ref' => 'Промо-сайт темного пива Dunkel от немецкого производителя Löwenbraü выпускаемого в России пивоваренной компанией "CАН ИнБев".'
+                'Concept' => 'Языки программирования',
+                'Ref' => '<a href="https://ru.wikipedia.org/wiki/PHP">PHP</a>, '
             ),
-            array(
-                
-                'Concept' => 'http://ZopoMobile.ru',
-                'Ref' => 'Русскоязычный каталог китайских телефонов компании Zopo на базе Android OS и аксессуаров к ним.'
-            ),
+                        array(
+                'Concept' => 'Паттерны проектирования',
+                'Ref' => '<a href="https://ru.wikipedia.org/wiki/Model-View-Controller">MVC</a>, <a href="http://habrahabr.ru/post/31270/">MVC(Habrhabr)</a>,'
+                            . ' <a href="https://ru.wikipedia.org/wiki/%D8%E0%E1%EB%EE%ED_%EF%F0%EE%E5%EA%F2%E8%F0%EE%E2%E0%ED%E8%FF">Паттерны</a>'
+            ),            
         );
     }
 }
