@@ -82,7 +82,6 @@ Modified by VitalySwipe
 						<h3>Основное меню</h3>
 						<ul class="list">
 							<li class="first "><a href="/">Главная</a></li>
-							<li><a href="/services">Услуги</a></li>
 							<li><a href="/refs">Ссылки</a></li>
 							<li class="last"><a href="/contacts">Контакты</a></li>
 						</ul>
